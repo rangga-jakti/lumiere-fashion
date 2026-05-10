@@ -5,7 +5,7 @@ const products = [
   { id: 2, name: 'Hijab Voal Layla', category: 'Hijab', price: 125000, image: 'https://images.unsplash.com/photo-1559563458-527698bf5295?w=500&q=80', tag: 'New' },
   { id: 3, name: 'Tunik Safa', category: 'Tunik', price: 275000, image: 'https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500&q=80', tag: null },
   { id: 4, name: 'Celana Kulot Nisa', category: 'Celana', price: 215000, image: 'https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=500&q=80', tag: 'Popular' },
-  { id: 5, name: 'Gamis Rania', category: 'Gamis', price: 425000, image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&q=80', tag: 'New' },
+  { id: 5, name: 'Gamis Rania', category: 'Gamis', price: 425000, image: 'https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=500&q=80', tag: 'New' },
   { id: 6, name: 'Set Outer Hana', category: 'Outer', price: 345000, image: 'https://images.unsplash.com/photo-1509631179647-0177331693ae?w=500&q=80', tag: null },
   { id: 7, name: 'Hijab Satin Mira', category: 'Hijab', price: 145000, image: 'https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?w=500&q=80', tag: 'Bestseller' },
   { id: 8, name: 'Tunik Kaftan Dina', category: 'Tunik', price: 295000, image: 'https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500&q=80', tag: null },
