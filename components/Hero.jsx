@@ -14,7 +14,7 @@ export default function Hero() {
     <section className="relative min-h-screen flex items-center overflow-hidden bg-[#1C1410]">
       <div ref={heroRef} className="absolute inset-0 opacity-50"
         style={{
-          backgroundImage: "url('https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1600&q=80')",
+          backgroundImage: "url('https://images.unsplash.com/photo-1606103836293-0a063315c833?w=1600&q=80')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           willChange: "transform",
